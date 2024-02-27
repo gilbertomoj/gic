@@ -9,7 +9,7 @@
 #### Analisar Relação com Outros Parâmetros: Investigar se existem correlações entre o aumento das notas de corte e outros parâmetros, como número de vagas, concorrência, entre outros.
 
 # Metodologia
-### Coleta de Dados: Utilizar a base de dados do Sisu contendo informações relevantes sobre as notas de corte, número de vagas e concorrência para os cursos do CIN.
+#### Coleta de Dados: Utilizar a base de dados do Sisu contendo informações relevantes sobre as notas de corte, número de vagas e concorrência para os cursos do CIN.
 
 #### Limpeza e Preparação de Dados: Realizar uma etapa de pré-processamento para garantir a qualidade e consistência dos dados, eliminando possíveis outliers e tratando valores ausentes.
 
